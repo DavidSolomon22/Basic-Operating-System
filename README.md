@@ -14,6 +14,6 @@ It contains such functionality as:
   - command line interface,
   - synchronization of processes.
   
-My task was to create interface based on linux shell.
+My task was to create interface based on Linux shell.
 
 I recommend to use x64 version of a debugger in Visual Studio.
