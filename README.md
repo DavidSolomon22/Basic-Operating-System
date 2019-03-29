@@ -1,6 +1,6 @@
 # Basic Operating System
 
-Purpose of this project was to create in C++ a simulation of operating system.
+Purpose of this project was to create in C++ a simulation of an operating system.
 Most of the modules in this project are based on Linux.
 
 It contains such functionality as:
